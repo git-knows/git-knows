@@ -1,2 +1,2 @@
-# git-knows
-A Git Analyser.
+# give
+give get git live
